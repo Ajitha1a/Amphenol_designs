@@ -83,9 +83,6 @@ const BOM_Dialog = () => {
         
     
     <div className="dialog-btn">
-        {/* <button className="save_dialog_btn mr-4" type="submit">
-            Save
-        </button> */}
         <Button label="Save"  onClick={() => confirm('top')} className="save_dialog_btn mr-4" style={{ minWidth: '10rem' }} />
         {/* <button className="cancel_dialog_btn" type="submit">
             Cancel
