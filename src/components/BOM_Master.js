@@ -27,8 +27,7 @@ const BOM_Master = () => {
         setRecords(data);
     }, []);
   return (
-    <div
-    >
+    <div>
         <div className="grid table-demo">
         <div className="col-12">
                 <div className="card leave_table">
